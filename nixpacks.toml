@@ -1,5 +1,0 @@
-[phases.setup]
-nixPkgs = ["ffmpeg", "python312", "python312Packages.pip"]
-
-[start]
-cmd = "python jobs/run.py"
